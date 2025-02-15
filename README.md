@@ -1,6 +1,4 @@
-Here’s a complete and polished `README.md` file that you can copy and use directly for your project:
 
----
 
 ```markdown
 # Submission Reminder App
@@ -117,6 +115,6 @@ This project is open-source and available under the MIT License. See the LICENSE
 ## Contact
 For questions or feedback, please contact:
 - **Name**: Nshuti Ruranga
-- **Email**: [Your Email Address]
+- **Email**: n.ruranga@alustudent.com
 - **GitHub**: [n-ruranga](https://github.com/n-ruranga)
 ```
