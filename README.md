@@ -1,7 +1,6 @@
 
-
+## Submission Reminder App
 ```markdown
-# Submission Reminder App
 
 ## Description
 The **Submission Reminder App** is a simple yet powerful application designed to help educators and students keep track of upcoming assignment deadlines. Built using shell scripting, this app automates the process of checking student submission statuses and sends reminders to those who have not yet submitted their assignments. It is lightweight, easy to use, and highly customizable.
